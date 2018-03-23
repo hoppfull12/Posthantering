@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="" label="Posthantering" language="en" table="x_178061_post_posthantering">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>Posthantering</label>
+            <language>en</language>
+            <name>x_178061_post_posthantering</name>
+            <plural>Posthanterings</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-03-23 12:32:16</sys_created_on>
+            <sys_id>fb2e7b49db411300987bddd0cf96192b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Posthantering</sys_name>
+            <sys_package display_value="Posthantering" source="x_178061_post">932eb709db411300987bddd0cf961955</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Posthantering">932eb709db411300987bddd0cf961955</sys_scope>
+            <sys_update_name>sys_documentation_x_178061_post_posthantering__en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-03-23 12:32:16</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
